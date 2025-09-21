@@ -1,0 +1,56 @@
+Pattern Printing Questions in Java
+
+1. Basic Star Patterns
+----------------------
+1. Print a solid rectangle of * of given rows and columns.
+2. Print a hollow rectangle of * of given rows and columns.
+3. Print a left-aligned right-angled triangle of stars.
+4. Print a right-aligned right-angled triangle of stars.
+5. Print an inverted left-aligned triangle of stars.
+6. Print an inverted right-aligned triangle of stars.
+7. Print a square pattern of stars.
+
+2. Pyramid Patterns
+-------------------
+8. Print a full pyramid of stars.
+9. Print an inverted pyramid of stars.
+10. Print a diamond shape of stars.
+11. Print a hollow pyramid.
+12. Print a hollow inverted pyramid.
+13. Print a hollow diamond.
+14. Print a solid rhombus.
+15. Print a hollow rhombus.
+
+3. Number Patterns
+------------------
+16. Print a left-aligned triangle with numbers from 1 to i in each row.
+17. Print an inverted triangle with numbers from 1 to n-i+1 in each row.
+18. Print a triangle where each row contains the same number as the row number.
+19. Print a continuous sequence of numbers in a triangle (Floyd’s triangle).
+20. Print a Pascal’s triangle.
+21. Print a triangle of numbers in reverse order.
+22. Print a pyramid of numbers centered.
+23. Print a diamond of numbers.
+
+4. Alphabet Patterns
+--------------------
+24. Print a left-aligned triangle of alphabets starting from A.
+25. Print an inverted triangle of alphabets starting from A.
+26. Print a triangle where each row contains the same alphabet as the row letter.
+27. Print continuous alphabets in a triangle (A, B, C...).
+28. Print a pyramid of alphabets.
+29. Print an inverted pyramid of alphabets.
+30. Print a diamond of alphabets.
+
+5. Advanced / Mixed Patterns
+----------------------------
+31. Print a butterfly pattern of stars.
+32. Print a sandglass pattern of stars.
+33. Print an hourglass pattern of stars.
+34. Print a zigzag pattern of stars.
+35. Print a plus (+) pattern using stars.
+36. Print an X pattern using stars.
+37. Print a pattern where numbers are mirrored on both sides.
+38. Print a pattern of alternating * and numbers.
+39. Print a chessboard pattern with stars and spaces.
+40. Print a spiral pattern of numbers inside a square.
