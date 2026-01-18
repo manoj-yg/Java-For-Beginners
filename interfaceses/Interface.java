@@ -1,6 +1,6 @@
 //class--class-->extends
 //class--interface-->implements
-//Interface--interface--->extends
+//Interface--interface--->extends   
 interface A {
 
     // all methods in interface are public abstract
